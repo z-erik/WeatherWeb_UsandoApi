@@ -1,5 +1,7 @@
 header{
     padding-top: 10px;
+    padding-bottom: 30px;
+background-color: #56B8DC;
 }
 
 h1{
@@ -45,6 +47,8 @@ gap: 50px;
     margin:0;
     
 }
+
+
 
 #weather-result{
     color:rgb(49, 48, 48) ;
