@@ -1,0 +1,58 @@
+header{
+    padding-top: 10px;
+}
+
+h1{
+    padding-top: 20px;
+    font-size: 50px;
+    margin: 0;
+    background-color: #56B8DC;
+    width: auto;
+    height: 100px;
+    text-align: center;
+   
+    
+}
+
+#seccionClima{
+background-color: #56B8DC;
+width: 100wd;
+height: px;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+margin: auto;
+gap: 50px;
+
+}
+
+#latitude-input{
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+#longitude-input{
+   margin-bottom: 40px; 
+   text-align: center;
+}
+
+
+#fetch-btn{
+    background-color: rgb(250, 250, 250);
+    width: 250px;
+    height: 40px;
+    margin:0;
+    
+}
+
+#weather-result{
+    color:rgb(49, 48, 48) ;
+    text-align: center;
+    
+    
+    border-top: 10px solid #67CB76;
+   background-color: #DAB758;
+    width: 100vw;
+    height: 100vw;
+}
